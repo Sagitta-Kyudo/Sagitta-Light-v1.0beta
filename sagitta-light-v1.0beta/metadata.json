@@ -1,0 +1,5 @@
+{
+  "name": "Sagitta Light v1.0",
+  "description": "A high-performance, responsive UI tool for character-level text comparison. It features live updates, a toggleable side-by-side or top-and-bottom layout, and synchronized scrolling for an efficient diffing experience.",
+  "requestFramePermissions": []
+}
